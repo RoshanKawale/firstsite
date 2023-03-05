@@ -1,0 +1,112 @@
+body {
+    text-align: center;
+    background-color: white;
+
+}
+
+.container-fluid {
+    padding: 0;
+    
+}
+.title-text1 {
+    font-family: 'Playfair Display', serif;
+    margin: 60px;
+}
+.title-text2 {
+    font-family: 'Playfair Display', serif;
+    margin: 80px 100px 50px;
+}
+.title-text3 {
+    font-family: 'Playfair Display', serif;
+    margin: 100px;
+}
+
+.title-img {
+    height: 350px;
+    border-radius: 5%;
+    margin-top: 50px;
+
+}
+.navbar-brand {
+    font-family: 'Tilt Warp', cursive;
+    padding: 10px;
+}
+.nav-item {
+    padding: 10px;
+}
+
+.row {
+    margin: 5%;
+}
+
+.find-text {
+    font-family: 'Playfair Display', serif;
+     
+}
+
+.form-area {
+    background-color: rgb(231, 235, 239);
+    padding: 5%;
+}
+.form-label {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    
+}
+.submit-btn {
+    margin-top: 40px;
+}
+
+.ikigai-text {
+    font-family: 'Times New Roman', Times, serif;
+
+    margin: 50px;
+}
+.ikigai-img {
+    width: 50%;
+}
+
+.section-padding {
+    padding: 20px;
+}
+
+.btn {
+    background-color: white;
+   
+}
+
+.card-btn {
+    margin: 10px;
+}
+.card-bg {
+    background-color: white;
+}
+
+.priority-head {
+    font-family: 'Playfair Display', serif;
+
+    margin-top: 30px;
+}
+
+.Acheive-head {
+    font-family: 'Playfair Display', serif;
+    margin-top: 40px;
+    
+}
+
+.premium {
+    width: 848px;
+    height: 128px;
+    padding: 0px;
+}
+
+.buy-btn {
+    font-family: 'Tilt Warp', cursive;
+    word-spacing: 0.5rem;
+}
+
+.icon {
+    margin: 20px 5px 5px;
+    padding: 5px;
+}
